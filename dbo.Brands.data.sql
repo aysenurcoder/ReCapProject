@@ -1,0 +1,6 @@
+﻿INSERT INTO [dbo].[Brands] ([BrandId], [BrandName]) VALUES (1, N'Fiat      ')
+INSERT INTO [dbo].[Brands] ([BrandId], [BrandName]) VALUES (2, N'Mercedes  ')
+INSERT INTO [dbo].[Brands] ([BrandId], [BrandName]) VALUES (3, N'Ford Focus')
+INSERT INTO [dbo].[Brands] ([BrandId], [BrandName]) VALUES (4, N'Hyundai   ')
+INSERT INTO [dbo].[Brands] ([BrandId], [BrandName]) VALUES (5, N'Rewnault  ')
+INSERT INTO [dbo].[Brands] ([BrandId], [BrandName]) VALUES (6, N'Peugeot   ')
